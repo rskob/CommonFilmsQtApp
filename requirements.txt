@@ -1,0 +1,8 @@
+PyQt5==5.15.9
+selenium==4.13.0
+requests==2.31.0
+bs4==0.0.1
+beautifulsoup4==4.12.2
+fuzzywuzzy==0.18.0
+lxml==4.9.3
+python-Levenshtein==0.23.0
