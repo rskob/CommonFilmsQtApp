@@ -34,7 +34,7 @@
 
 ## Установка и запуск
 ```bash
-git clone https://github.com/username/CommonFilmsQtApp.git
+git clone https://github.com/rskob/CommonFilmsQtApp.git
 cd CommonFilmsQtApp
 pip install -r requirements.txt
 python main.py
