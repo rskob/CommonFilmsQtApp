@@ -15,7 +15,8 @@ con.commit()
 
 cur.execute("CREATE TABLE IF NOT EXISTS Persons ("
             "name TEXT,"
-            "href TEXT)")
+            "href TEXT,"
+            "date TEXT)")
 con.commit()
 
 
