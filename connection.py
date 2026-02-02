@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from random import shuffle
 from parse import Person
 
-PATH = ""
+PATH = "films_and_actors.db"
 
 con = sqlite3.connect(PATH)
 cur = con.cursor()
